@@ -1,0 +1,104 @@
+---
+title: "Repeatability"
+author: Nick Tustison
+date: August 22, 2014
+output:
+  revealjs_presentation:
+    pandoc_args: [ "--slide-level", "2" ]
+    incremental: false
+    widescreen: false
+    smaller: true
+    theme: night
+    transition: fade
+    highlight: pygments
+    center: true
+    self_contained: false
+---
+
+
+# Subject901
+
+## Subject901 -- VX770_025901_198
+
+![](figures/montage_Subject901_VX770_025901_198.png)
+
+## Subject901 -- VX770_025901_239
+
+![](figures/montage_Subject901_VX770_025901_239.png)
+
+# Subject902
+
+## Subject902 -- VX770_025902_228
+
+![](figures/montage_Subject902_VX770_025902_228.png)
+
+## Subject902 -- VX770_025902_455
+
+![](figures/montage_Subject902_VX770_025902_455.png)
+
+## Subject902 -- VX770_025902_780
+
+![](figures/montage_Subject902_VX770_025902_780.png)
+
+# Subject904
+
+## Subject904 -- VX770_025904_283
+
+![](figures/montage_Subject904_VX770_025904_283.png)
+
+## Subject904 -- VX770_025904_398
+
+![](figures/montage_Subject904_VX770_025904_398.png)
+
+## Subject904 -- VX770_025904_592
+
+![](figures/montage_Subject904_VX770_025904_592.png)
+
+# Subject907
+
+## Subject907 -- VX770_025907_515
+
+![](figures/montage_Subject907_VX770_025907_515.png)
+
+## Subject907 -- VX770_025907_593
+
+![](figures/montage_Subject907_VX770_025907_593.png)
+
+## Subject907 -- VX770_025907_690
+
+![](figures/montage_Subject907_VX770_025907_690.png)
+
+# Subject909
+
+## Subject909 -- VX770_025909_203
+
+![](figures/montage_Subject909_VX770_025909_203.png)
+
+## Subject909 -- VX770_025909_679
+
+![](figures/montage_Subject909_VX770_025909_679.png)
+
+## Subject909 -- VX770_025909_782
+
+![](figures/montage_Subject909_VX770_025909_782.png)
+
+# Subject910
+
+## Subject910 -- VX770_025910_158
+
+![](figures/montage_Subject910_VX770_025910_158.png)
+
+## Subject910 -- VX770_025910_737
+
+![](figures/montage_Subject910_VX770_025910_737.png)
+
+## Subject910 -- VX770_025910_773
+
+![](figures/montage_Subject910_VX770_025910_773.png)
+
+# Subject913
+
+## Subject913 -- VX770_025913_403
+
+![](figures/montage_Subject913_VX770_025913_403.png)
+
